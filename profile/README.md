@@ -1,4 +1,4 @@
-## ONCE DEFI INSURANCE👋
+## 🫶 ONCE DEFI INSURANCE 🫶
 
 <!--
 
