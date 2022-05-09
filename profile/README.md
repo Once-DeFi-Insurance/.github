@@ -34,6 +34,7 @@ By removing the need for medical and providing a means for   passive yield, the 
 - [@jea9o](https://www.github.com/jea9o)
 - [@KunIg](https://www.github.com/KunIg)
 - [@bruno353](https://www.github.com/bruno353)
+- [@coburn24](https://www.github.com/coburn24)
 - [@0xefrain](https://www.github.com/0xefrain)
 
 
