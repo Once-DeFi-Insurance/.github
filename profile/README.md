@@ -1,7 +1,7 @@
 
 #  Once Defi Insurance 
 
-![Logo](https://github.com/Once-DeFi-Insurance/design/blob/main/logo.png)
+![Logo](https://github.com/Once-DeFi-Insurance/design/blob/main/logo.png =250x)
 
 ## ONCE is a Dapp using the decentralized protocol that allows for crypto Life assurance 
 Paying assurance premiums monthly result in annual increases and lead to abandoned assurance policies with the insured very often not completing the term of assurance, thereby losing the benefit of time.
