@@ -12,8 +12,6 @@ The Once Token is a real person’s life representation in the digital world in 
 
 This model allows users to set up a price tag for their lives, by having an asset that materializes when the user dies. i.e. should they stake 1 ETH and be assured for 5 ETH, the marketplace could offer 1.5 ETH and the beneficiary would then be the owner of the NFT.
  
-![image](https://user-images.githubusercontent.com/97870886/168477861-98d9632c-a163-4455-8c6c-956273aaa0f0.png)
-
 
 
 ## Features
