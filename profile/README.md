@@ -4,31 +4,27 @@
 
 
 ## ONCE is a Dapp using the decentralized protocol that allows for crypto Life assurance 
-Paying assurance premiums monthly result in annual increases and lead to abandoned assurance policies with the insured very often not completing the term of assurance, thereby losing the benefit of time.
-Value proposition, current legal framework of normal insurance industry, 
-Who are our clients and what the people look like
-(Alberto salesforce)
-Outside current legal framework - 
-The limitation of assurance on Blockchain is the “source of truth”, opening the option of ONCE payment to fraud. 
-By incorporating the principle of “trust through consensus”, the ONCE protocol creates a way for insured to show trustworthiness based on the collective assessment of other participants rather than based on face value.
-The protocol can then use this collective assessment as a signal for automatically allocating insurance with a ONCE payment of 5 years or 10 years, with a payout and a premium determined by the assessor. 
+Paying assurance premiums monthly result in annual increases and often leads to abandoned assurance policies with the insured very often not completing the term of assurance, thereby losing the benefit of time.
 
-The random assessor will determine the risk and signal the contract release, for this they would get an upfront 10% of the fee paid.  All information will be stored on chain and accessible by the Insurer
+Value Propositiion: A decentralized risk management system That creates tokenized value from peoples’ lives
 
-The Insurer will have an Insurance Pool, where they make a sum for payout available, in the event of death, this is the pool that will be used to pay out the Insured.
-The Pool would payout in the event of death.
-The Insurer will receive 20% of the insured ONCE payment at the end of the contract.
-By removing the need for medical and providing a means for   passive yield, the protocol dramatically expands both the potential insured, who can access Life Insurance at a highly reduced rate, and the potential assurance providers who can gain exposure and join the blockchain as well as earn passive income.
+The Once Token is a real person’s life representation in the digital world in a NFT format. In this sense a person can generate a token that represents their life and place it in a marketplace. At the same time a crypto life assurance monetizes the moment of death in case that person dies. The holder of the NFT is the one that receives the value of the crypto life assurance. Consequently, this can only be achieved if the requirements in the smart contract are met.
+
+This model allows users to set up a price tag for their lives, by having an asset that materializes when the user dies. i.e. should they stake 1 ETH and be assured for 5 ETH, the marketplace could offer 1.5 ETH and the beneficiary would then be the owner of the NFT.
+ 
+![image](https://user-images.githubusercontent.com/97870886/168477861-98d9632c-a163-4455-8c6c-956273aaa0f0.png)
+
 
 
 ## Features
 
-- Defi Insurance
-- 
-- 
-- 
--
--
+- Defi Assurance
+- KYC
+- Risk Pool
+- Liquidity Pool
+- Oracle
+- Marketplace
+- DAO
 
 
 ## Authors
@@ -54,13 +50,13 @@ You can check a live demo on
 
 ## Roadmap
 
-- 
-
-- 
-- 
-- 
-- 
-- 
+- Complete DApp with dummy data
+- Connect Market Place
+- Connect DAO MVP
+- Incorprorate Company
+- Invetsment
+- Marketing
+- Development
 
 
 
