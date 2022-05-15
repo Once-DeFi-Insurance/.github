@@ -16,7 +16,7 @@ This model allows users to set up a price tag for their lives, by having an asse
  
 Once decentralized life assurance system creates a token of life representation in the digital world as an NFT.  A person can generate a token and place it in a marketplace.  The holder of the NFT is the beneficiary at time of the insured's death.
 
-The Landing page is coded with React.  There will be a roadmap life simulator that captures 4 basic areas of information as well as a real time widget giving insight to the live liquidity pool.
+The Spheron Landing page is coded with React.  There will be a roadmap life simulator that captures 4 basic areas of information as well as a real time widget giving insight to the live liquidity pool.
 
 The Dapp is accessed through Metamask and KYC managed through Transak. Staking is done through Pinato into the risk pool, and, once the Actuary has engaged the client and agreed to the contract, further kyc (dummy data for MVP) will be securely managed by Oasis on IPFS.
 
