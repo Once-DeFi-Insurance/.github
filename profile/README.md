@@ -3,7 +3,7 @@
 
 
 
-## ONCE is a Dapp using the decentralized Polygon protocol that allows for crypto Life assurance 
+## ONCE is a Dapp using the Polygon protocol that allows for crypto Life assurance 
 Paying assurance premiums monthly result in annual increases and often leads to abandoned assurance policies with the insured very often not completing the term of assurance, thereby losing the benefit of time.
 
 Value Propositiion: A decentralized risk management system That creates tokenized value from peoples’ lives
