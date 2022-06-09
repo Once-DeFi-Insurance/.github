@@ -3,7 +3,7 @@
 
 
 
-## ONCE is a Dapp using the decentralized protocol that allows for crypto Life assurance 
+## ONCE is a Dapp using the decentralized Polygon protocol that allows for crypto Life assurance 
 Paying assurance premiums monthly result in annual increases and often leads to abandoned assurance policies with the insured very often not completing the term of assurance, thereby losing the benefit of time.
 
 Value Propositiion: A decentralized risk management system That creates tokenized value from peoples’ lives
@@ -41,7 +41,6 @@ Staking will go into the liquidity pool, risk is managed by Appwine and benefici
 - [@jea9o](https://www.github.com/jea9o)
 - [@KunIg](https://www.github.com/KunIg)
 - [@bruno353](https://www.github.com/bruno353)
-- [@coburn24](https://www.github.com/coburn24)
 - [@0xefrain](https://www.github.com/0xefrain)
 
 
@@ -59,13 +58,9 @@ You can check a live demo on
 
 ## Roadmap
 
-- Complete DApp with dummy data
-- Connect Market Place
-- Connect DAO MVP
-- Incorprorate Company
-- Invetsment
-- Marketing
-- Development
+- Privacy setup: Looking for building in Secret Network
+- DAO: Development of Once DAO
+- Risk pools: Development of risk pools for insurance automated investment
 
 
 
