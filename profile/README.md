@@ -48,7 +48,7 @@ Staking will go into the liquidity pool, risk is managed by Appwine and benefici
 
 
 ## Demo
-You can check a live demo on
+You can check a live demo on (https://showcase.ethglobal.com/hackmoney2022/once-w12m9)
 
 
 ## Documentation
