@@ -42,6 +42,7 @@ Staking will go into the liquidity pool, risk is managed by Appwine and benefici
 - [@KunIg](https://www.github.com/KunIg)
 - [@bruno353](https://www.github.com/bruno353)
 - [@0xefrain](https://www.github.com/0xefrain)
+- [@Plauto](https://www.github.com/Plauto679)
 
 
 
